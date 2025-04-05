@@ -49,7 +49,7 @@ MIDDLEWARE = [
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
-ROOT_URLCONF = "cfehome.urls"
+ROOT_URLCONF = "cme_home.urls"
 
 TEMPLATES = [
     {
