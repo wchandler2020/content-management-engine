@@ -67,7 +67,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = "cfehome.wsgi.application"
+WSGI_APPLICATION = "cme_home.wsgi.application"
 
 
 # Database
